@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "defines": [
+                "_D_DEBUG",
+                "NEED_BOOST"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "../include",
+                "../boost/include",
+                "../pj/include",
+                "D:\\msys64\\mingw64\\include",
+                "D:\\msys64\\usr\\include",
+                "D:\\msys64\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.1.0\\include"
+            ]
+        }
+    ],
+    "version": 4
+}

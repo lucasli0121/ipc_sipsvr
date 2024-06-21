@@ -1,0 +1,1 @@
+..\cpplint\cpplint.py --filter=-whitespace/tab,-whitespace/braces --verbose=4 --output=vs7 live_rtp_cli.cpp 2> check_result.txt
